@@ -3,6 +3,11 @@
 ## Overview
 This is a simple console-based C# application that allows users to manage circles and rectangles. The program provides functionalities to add new shapes, list existing shapes, and calculate various statistics like the total area and the percentage of area occupied by circles and rectangles.
 
+<img width="535" alt="Screenshot 2024-12-21 at 8 21 41 PM" src="https://github.com/user-attachments/assets/e2e698ad-d9bf-4fc7-af4d-84fea5ed4ae3" /> <img width="535" alt="Screenshot 2024-12-21 at 8 20 46 PM" src="https://github.com/user-attachments/assets/498c7123-8550-47b8-8adf-661a2f45cb20" />
+
+
+
+
 The system allows the user to:
 - Add circles with specified diameters.
 - Add rectangles with specified height and width.
