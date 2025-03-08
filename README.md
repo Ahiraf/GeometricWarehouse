@@ -1,4 +1,4 @@
-# Labworks - Circle and Rectangle Management System
+# Circle and Rectangle Management System
 
 ## Overview
 This is a simple console-based C# application that allows users to manage circles and rectangles. The program provides functionalities to add new shapes, list existing shapes, and calculate various statistics like the total area and the percentage of area occupied by circles and rectangles.
